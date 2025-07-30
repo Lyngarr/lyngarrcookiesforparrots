@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.lyngarr.cookiesforparrots.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ParrotEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
